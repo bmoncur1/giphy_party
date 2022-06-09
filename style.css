@@ -1,0 +1,15 @@
+.websiteTitle{
+    display: flex;
+   justify-content: space-evenly;
+}
+
+.search{
+    display: flex; 
+    justify-content: center;
+}
+
+h1{
+color: black;
+}
+
+
